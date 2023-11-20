@@ -26,3 +26,5 @@
 ![alt text](https://github.com/bivansir/LR6/blob/report/screenshots/10.PNG)
 #### 11. Выгрузка первой партии скриншотов
 ![alt text](https://github.com/bivansir/LR6/blob/report/screenshots/11.PNG)
+#### 12. Редактор .md файлов
+![alt text](https://github.com/bivansir/LR6/blob/report/screenshots/12.PNG)
