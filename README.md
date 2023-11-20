@@ -32,6 +32,8 @@
 ![alt text](https://github.com/bivansir/LR6/blob/report/screenshots/12.PNG)
 #### 13. Отформатированный лог команд
 ![alt text](https://github.com/bivansir/LR6/blob/report/screenshots/13.PNG)
+#### 14. Пуш изменений на удалённый репозиторий
+![alt text](https://github.com/bivansir/LR6/blob/report/screenshots/14.PNG)
 
 #### 14. Список использованных команд
 git config --global user.name - просмотр имени клиента Git
